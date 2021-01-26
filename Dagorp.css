@@ -1,0 +1,93 @@
+/*Dago rp site web */
+
+
+html, body {
+	color:black;
+	background-color:white;
+	background-image: url("Fonde.jpg");
+	background-position: center;
+  	background-repeat: no-repeat;
+ 	background-size: cover;
+}
+
+h1 {
+	color: #800;
+	text-align: center;
+	font-size: 40px;
+	background-color: green;
+}
+
+#image,div,body {
+
+	text-align: center;
+
+}
+
+h2{
+	color: #255;
+	font-size: 25px;
+
+}
+
+
+.Develop {
+	font-style: italic;
+	font-size: 18px;
+
+}
+
+h3{
+	font-size: 25px;
+	color: #255;
+
+}
+
+.join{
+	color: red;
+	font-style: bold;
+	font-size: 20px;
+
+}
+
+
+h4 {
+	font-size: 25px;
+	color: #255;
+}
+
+
+#liste{
+	font-size: 18px;
+	text-align: center;
+
+}
+
+
+h5 {
+	font-size: 25px;
+	color: #255;
+
+}
+
+
+#ts {
+	color: black;
+	font-size: 18px;
+}
+
+
+h6{
+	font-size: 25px;
+	color: #255;
+}
+
+table{
+	width: 650px;
+	margin:0 auto;
+	border-collapse: collapse;
+	text-align:center;
+}
+
+table td {
+  border: 5px solid red;
+}
